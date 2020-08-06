@@ -15,8 +15,7 @@
                 },
                 "size": 12
               },
-              "type": "minecraft:ore",
-			  "name": "minecraft:ore"
+              "type": "minecraft:ore"
             },
             "decorator": {
               "config": {
@@ -24,30 +23,24 @@
                 "top_offset": 60,
                 "maximum": 67
               },
-              "type": "minecraft:range",
-			  "name": "minecraft:range"
+              "type": "minecraft:range"
             }
           },
-          "type": "minecraft:decorated",
-		  "name": "minecraft:decorated"
+          "type": "minecraft:decorated"
         },
         "decorator": {
           "config": {},
-          "type": "minecraft:square",
-		  "name": "minecraft:square"
+          "type": "minecraft:square"
         }
       },
-      "type": "minecraft:decorated",
-	  "name": "minecraft:decorated"
+      "type": "minecraft:decorated"
     },
     "decorator": {
       "config": {
         "count": 1
       },
-      "type": "minecraft:count",
-	  "name": "minecraft:count"
+      "type": "minecraft:count"
     }
   },
-  "type": "minecraft:decorated",
-  "name": "minecraft:decorated"
+  "type": "minecraft:decorated"
 }
