@@ -1,4 +1,5 @@
 {
+  "effects": "minecraft:the_nether",
   "has_raids": false,
   "logical_height": 128,
   "infiniburn": "minecraft:infiniburn_nether",
