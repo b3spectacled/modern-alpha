@@ -14,7 +14,12 @@
               "min_clipped_height": 4,
               "type": "minecraft:two_layers_feature_size"
             },
-            "decorators": [],
+            "decorators": [
+              {
+                "probability": 0.002,
+                "type": "minecraft:beehive"
+              }
+            ],
             "trunk_provider": {
               "state": {
                 "Properties": {
