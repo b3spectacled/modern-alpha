@@ -48,7 +48,17 @@
 		{
           "biome": "minecraft:alpha",
           "parameters": {
-            "temperature": 0.5,
+            "temperature": 0.6,
+            "humidity": 0.0,
+            "altitude": 0.0,
+            "weirdness": 0.0,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "minecraft:alpha_g",
+          "parameters": {
+            "temperature": 0.8,
             "humidity": 0.0,
             "altitude": 0.0,
             "weirdness": 0.0,
@@ -58,7 +68,17 @@
         {
           "biome": "minecraft:winter_alpha",
           "parameters": {
-            "temperature": -0.5,
+            "temperature": -0.6,
+            "humidity": 0.0,
+            "altitude": 0.0,
+            "weirdness": 0.0,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "minecraft:winter_alpha_g",
+          "parameters": {
+            "temperature": -0.8,
             "humidity": 0.0,
             "altitude": 0.0,
             "weirdness": 0.0,

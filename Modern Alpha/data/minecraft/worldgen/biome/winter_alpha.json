@@ -90,7 +90,9 @@
       "minecraft:ore_redstone",
       "minecraft:ore_diamond",
 	  "minecraft:sand_beach",
-	  "minecraft:ore_clay"
+	  "minecraft:ore_clay",
+      "minecraft:patch_grass_block_air",
+      "minecraft:patch_grass_block"
     ],
     [],
     [
@@ -108,7 +110,7 @@
       "minecraft:freeze_top_layer"
     ]
   ],
-  "scale": 0.25,
+  "scale": 0.3,
   "temperature": 0.0,
   "downfall": 0.0,
   "effects": {

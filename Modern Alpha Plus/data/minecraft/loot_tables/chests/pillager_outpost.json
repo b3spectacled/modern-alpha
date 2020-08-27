@@ -176,8 +176,8 @@
     },
     {
       "rolls": {
-        "min": 4,
-        "max": 6
+        "min": 6,
+        "max": 8
       },
       "entries": [
         {
@@ -204,6 +204,40 @@
           "type": "minecraft:item",
           "name": "minecraft:dark_oak_sapling",
           "weight": 5
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 2,
+        "max": 3
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cocoa_beans",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sweet_berries",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 3
+              }
+            }
+          ]
         }
       ]
     }

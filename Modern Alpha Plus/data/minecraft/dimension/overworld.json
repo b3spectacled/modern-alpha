@@ -41,7 +41,17 @@
             "temperature": 0.0,
             "humidity": 0.0,
             "altitude": 0.0,
-            "weirdness": 0.0,
+            "weirdness": 0.6,
+            "offset": 0.0
+          }
+        },
+        {
+          "biome": "minecraft:alpha_g",
+          "parameters": {
+            "temperature": 0.0,
+            "humidity": 0.0,
+            "altitude": 0.0,
+            "weirdness": 0.8,
             "offset": 0.0
           }
         }
