@@ -119,6 +119,7 @@
     ],
     [],
     [
+      "minecraft:patch_grass_forest",
       "minecraft:fancy_oak_alpha",
 	  "minecraft:oak_alpha",
       "minecraft:flower_default",
