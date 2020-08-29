@@ -37,7 +37,7 @@
     },
     "decorator": {
       "config": {
-        "count": 100
+        "count": 128
       },
       "type": "minecraft:count"
     }
