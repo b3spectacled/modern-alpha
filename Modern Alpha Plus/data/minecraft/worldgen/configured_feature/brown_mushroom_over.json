@@ -5,16 +5,11 @@
         "feature": "minecraft:patch_brown_mushroom",
         "decorator": {
           "config": {
-            "outer": {
-              "config": {},
-              "type": "minecraft:square"
-            },
-            "inner": {
-              "config": {},
-              "type": "minecraft:heightmap"
-            }
+            "bottom_offset": 0,
+            "top_offset": 0,
+            "maximum": 128
           },
-          "type": "minecraft:decorated"
+          "type": "minecraft:range"
         }
       },
       "type": "minecraft:decorated"
