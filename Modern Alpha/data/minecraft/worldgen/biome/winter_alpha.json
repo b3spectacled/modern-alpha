@@ -96,8 +96,8 @@
     ],
     [],
     [
-      "minecraft:fancy_oak_alpha",
-	  "minecraft:oak_alpha",
+      "minecraft:trees_alpha",
+	  "minecraft:trees_alpha_extra",
       "minecraft:flower_default",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
