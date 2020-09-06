@@ -13,15 +13,15 @@
                 "state": {
                   "Name": "minecraft:clay"
                 },
-                "size": 12
+                "size": 33
               },
               "type": "minecraft:ore"
             },
             "decorator": {
               "config": {
-                "bottom_offset": 60,
-                "top_offset": 60,
-                "maximum": 67
+                "bottom_offset": 0,
+                "top_offset": 0,
+                "maximum": 128
               },
               "type": "minecraft:range"
             }
@@ -37,7 +37,7 @@
     },
     "decorator": {
       "config": {
-        "count": 1
+        "count": 2
       },
       "type": "minecraft:count"
     }
